@@ -9,7 +9,7 @@ This github repo contains my journey in completing the CVWO Winter Assignment.
 ## Installation of Rails:
 The guide from [https://github.com/CVWO/setup-guide](https://github.com/CVWO/setup-guide) is very comprehensive.
 
-[Rails installed Successfully!](/images/rails_installed.png "Rails installed Successfully!")
+![Rails installed Successfully!](/images/rails_installed.png "Rails installed Successfully!")
 
 ## Write-up:
 You can find the link to the write-up [here](/docs/writeup.txt).
