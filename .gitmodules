@@ -1,0 +1,3 @@
+[submodule "memoapp"]
+	path = memoapp
+	url = https://github.com/SpdPnd98/memoapp.git
