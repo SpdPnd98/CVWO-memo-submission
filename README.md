@@ -13,3 +13,7 @@ The guide from [https://github.com/CVWO/setup-guide](https://github.com/CVWO/set
 
 ## Write-up:
 You can find the link to the write-up [here](/docs/writeup.pdf).
+
+## Updates:
+
+31/12/2020 - 4/1/2021: Following [React with Rails tutorial by digitalocean.com](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend).
