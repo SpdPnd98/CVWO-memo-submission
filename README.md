@@ -26,3 +26,7 @@ Learning Outcome:
 
 Link to the attempt (its a carbon copy of the tutorial) can be found here: [https://github.com/SpdPnd98/react_rails_recipe_tutorial](https://github.com/SpdPnd98/react_rails_recipe_tutorial)
 
+[5/1/2020]: Followed [Tic-Tac-Toe tutorial](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial) from official React Website. Read on [state and lifecycles](https://reactjs.org/docs/state-and-lifecycle.html) in react. 
+
+
+Results can be found here: [https://github.com/SpdPnd98/tic-tac-toe-react](https://github.com/SpdPnd98/tic-tac-toe-react) 
