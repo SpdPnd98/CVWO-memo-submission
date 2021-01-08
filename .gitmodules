@@ -1,3 +1,6 @@
 [submodule "memoapp"]
 	path = memoapp
 	url = https://github.com/SpdPnd98/memoapp.git
+[submodule "memoapp-ui"]
+	path = memoapp-ui
+	url = ./memoapp-ui/
