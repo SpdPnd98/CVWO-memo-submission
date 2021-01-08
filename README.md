@@ -26,7 +26,14 @@ Learning Outcome:
 
 Link to the attempt (its a carbon copy of the tutorial) can be found here: [https://github.com/SpdPnd98/react_rails_recipe_tutorial](https://github.com/SpdPnd98/react_rails_recipe_tutorial)
 
-[5/1/2020]: Followed [Tic-Tac-Toe tutorial](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial) from official React Website. Read on [state and lifecycles](https://reactjs.org/docs/state-and-lifecycle.html) in react. 
+5/1/2020: Followed [Tic-Tac-Toe tutorial](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial) from official React Website. Read on [state and lifecycles](https://reactjs.org/docs/state-and-lifecycle.html) in react. 
 
 
-Results can be found here: [https://github.com/SpdPnd98/tic-tac-toe-react](https://github.com/SpdPnd98/tic-tac-toe-react) 
+Results can be found here: [https://github.com/SpdPnd98/tic-tac-toe-react](https://github.com/SpdPnd98/tic-tac-toe-react)
+
+6/1/2020: Recreated Rails and React separately, starting Rails as an API-Only app, and React purely as front-end. Proceed with development of Rails before React.
+
+7/1/2020 - 8/1/2020: creating frontend with typescript. Found some useful resources
+- [Response types for fetching from api](https://medium.com/@isachenx/making-a-fetch-request-with-typescript-4a6b523f1e69)
+- [Typescript Cheetsheet](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)
+
