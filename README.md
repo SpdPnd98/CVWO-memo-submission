@@ -41,3 +41,4 @@ Results can be found here: [https://github.com/SpdPnd98/tic-tac-toe-react](https
 
 11/1/2021: discussed higher level idea with fellow CVWO assignment, when alone tried to figure out potential issues with Internal Server Error (500) and Bad Request (400). The issue was redirection from ruby interface, a workaround was to do a new query and return the result as a JSON (original was to do a API call to memoboard index and return JSON, so was functionally identical).
 
+12/1/2021: Read up on [comparison between props and states](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md), and learnt how to differentiate when to put an attribute in state vs props. Did a refactor for cleaner manipulation of react components. Allowed CORS delete and update from rails.
