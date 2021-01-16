@@ -39,8 +39,12 @@ Results can be found here: [https://github.com/SpdPnd98/tic-tac-toe-react](https
 
 9/1/2021 - 10/1/2021: moving between hostel, took 2 days off. Long story short I had too much things.
 
-11/1/2021: discussed higher level idea with fellow CVWO assignment, when alone tried to figure out potential issues with Internal Server Error (500) and Bad Request (400). The issue was redirection from ruby interface, a workaround was to do a new query and return the result as a JSON (original was to do a API call to memoboard index and return JSON, so was functionally identical).
+11/1/2021: discussed higher level idea with fellow CVWO assignment-doing mates, when alone tried to figure out potential issues with Internal Server Error (500) and Bad Request (400). The issue was redirection from ruby interface, a workaround was to do a new query and return the result as a JSON (original was to do a API call to memoboard index and return JSON, so was functionally identical).
 
 12/1/2021: Read up on [comparison between props and states](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md), and learnt how to differentiate when to put an attribute in state vs props. Did a refactor for cleaner manipulation of react components. Allowed CORS delete and update from rails.
 
 13/1/2021: Major refactor from [class components to functional components](https://nimblewebdeveloper.com/blog/convert-react-class-to-function-component). This allowed flexible use for Material-UI styling, as they believe React is going in the functional paradigm direction (Their [docs from basic to advanced styles](https://material-ui.com/styles/basics/) had literally zero info for class based components...). Added [Masonry](https://www.npmjs.com/package/react-masonry-component) to package.json, this allows cards to be ordered nicer than Grids in Materials-UI. Added Update of Memo to backend and frontend logic. Edit is done on the spot, abusing render (this however, takes away some potentially nice animations). 
+
+14/1/2021: Have meetings on Friday and school assignments
+
+15/1/2021 - 16/1/2021: Adding categories. At first considered having a concept of a service for memo to call and get their category colors. Asked opinions from an old friend that has experience with React, and they reminded me what I was doing was essentially implementing Redux from scratch. Decided against using Redux (or even concept for that matter) for now as I wanted to see how much I can push with only react and material-ui. Passing categories as props to each memoForm objects. Color change is visible, but will only be committed when the "Update" button is pushed.
