@@ -50,3 +50,5 @@ Results can be found here: [https://github.com/SpdPnd98/tic-tac-toe-react](https
 15/1/2021 - 16/1/2021: Adding categories. At first considered having a concept of a service for memo to call and get their category colors. Asked opinions from an old friend that has experience with React, and they reminded me what I was doing was essentially implementing Redux from scratch. Decided against using Redux (or even concept for that matter) for now as I wanted to see how much I can push with only react and material-ui. Passing categories as props to each memoForm objects. Color change is visible, but will only be committed when the "Update" button is pushed.
 
 17/1/2021: The nightmare that is adding categories and rerendering stuffs. I have done CRUD for categories (front end portion), and users can now assign categories to their memos. That being said, the code is too messy. I'll implement various filter functions first, before refactoring code to use Redux. 
+
+18/1/2021: Added filtering by category. Did some thinking on whether I should do a SQL query or filter on the front end. Plan to migrate Categories and Memos to Redux. Deployment should begin soon!
