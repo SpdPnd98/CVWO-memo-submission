@@ -52,3 +52,12 @@ Results can be found here: [https://github.com/SpdPnd98/tic-tac-toe-react](https
 17/1/2021: The nightmare that is adding categories and rerendering stuffs. I have done CRUD for categories (front end portion), and users can now assign categories to their memos. That being said, the code is too messy. I'll implement various filter functions first, before refactoring code to use Redux. 
 
 18/1/2021: Added filtering by category. Did some thinking on whether I should do a SQL query or filter on the front end. Plan to migrate Categories and Memos to Redux. Deployment should begin soon!
+
+19/1/2021: Learning basics of Redux. In the process of migrating. Had some homework so focused on those today.
+
+20/1/2021: Still trying out redux. Read some tutorials. There is this website that teaches [how to add redux to project...](https://www.freecodecamp.org/news/how-to-use-redux-in-your-react-typescript-app/) maybe worth trying? Tried deploying on Heroku and Netlify. Initial deployment was quite smooth. 
+
+You can now access the website here[https://memoapp-bryan98.netlify.app/](https://memoapp-bryan98.netlify.app/)
+
+Known issues: 
+- when reloading, must go to root, or it will show error.
