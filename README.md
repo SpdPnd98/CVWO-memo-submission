@@ -57,7 +57,9 @@ Results can be found here: [https://github.com/SpdPnd98/tic-tac-toe-react](https
 
 20/1/2021: Still trying out redux. Read some tutorials. There is this website that teaches [how to add redux to project...](https://www.freecodecamp.org/news/how-to-use-redux-in-your-react-typescript-app/) maybe worth trying? Tried deploying on Heroku and Netlify. Initial deployment was quite smooth. 
 
-You can now access the website here[https://memoapp-bryan98.netlify.app/](https://memoapp-bryan98.netlify.app/)
+You can now access the website here: [https://memoapp-bryan98.netlify.app/](https://memoapp-bryan98.netlify.app/)
 
 Known issues: 
 - when reloading, must go to root, or it will show error.
+
+[this blog](https://www.netlify.com/blog/2019/01/16/redirect-rules-for-all-how-to-configure-redirects-for-your-static-site/) seems to show a possible fix. netlify can read the `_redirect` file or a `netlify.toml` file.
