@@ -1,9 +1,12 @@
 # CVWO-memo-submission
 This github repo contains my journey in completing the CVWO Winter Assignment.
+You can now access the website here: [https://memoapp-bryan98.netlify.app/](https://memoapp-bryan98.netlify.app/)
+
 
 ## Student Details:
 
 *Name*: Bryan Tee Pak Hong
+
 *Matriculation Number*: A0221495E
 
 ## Installation of Rails:
@@ -63,3 +66,13 @@ Known issues:
 - when reloading, must go to root, or it will show error.
 
 [this blog](https://www.netlify.com/blog/2019/01/16/redirect-rules-for-all-how-to-configure-redirects-for-your-static-site/) seems to show a possible fix. netlify can read the `_redirect` file or a `netlify.toml` file.
+
+21/1/2021-22/1/2021: School is ramping up, completing tutorials/labs.
+
+23/1/2021: reconsidered applying redux due to time constraints and (relatively) low complexity of the app. Added snackbar when adding/deleting/updating memos. Implemented R of memoboards.
+
+24/1/2021 - 29/1/2021: School is ramping up!
+
+30/1/2021: Added Pomodoro Timer.
+
+Thanks for the fun assignment, really enriched my winter holidays!
