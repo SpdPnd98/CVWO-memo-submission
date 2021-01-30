@@ -19,7 +19,7 @@ You can find the link to the write-up [here](/docs/writeup.pdf).
 
 You can find the link to the final report [here](/docs/CVWO&#32;Final&#32;Report.pdf).
 
-I documented some key milestones here. Mostly in the UI portion interacting with backend. [/https://www.instagram.com/modelconverge/](/https://www.instagram.com/modelconverge/).
+I documented some key milestones here. Mostly in the UI portion interacting with backend. [https://www.instagram.com/modelconverge/](https://www.instagram.com/modelconverge/).
 
 ## Updates:
 
